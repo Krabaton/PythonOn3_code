@@ -1,0 +1,27 @@
+[20:56:13] Addressbook has been loaded!
+[20:56:44] Addressbook has been loaded!
+[20:56:54] Addressbook has been loaded!
+[20:57:23] Contact Al has been added.
+[20:57:23] Addressbook has been saved!
+[21:09:55] Addressbook has been loaded!
+[21:10:21] Contact Al has been added.
+[21:10:21] Addressbook has been saved!
+[21:10:42] Contact Al has been edited!
+[21:10:42] Addressbook has been saved!
+[21:20:14] Addressbook has been loaded!
+[21:30:09] Adressbook has been created!
+[21:30:25] Adressbook has been created!
+[21:30:48] Contact Al has been added.
+[21:30:48] Addressbook has been saved!
+[21:31:32] Addressbook has been loaded!
+[21:31:49] Contact Al has been edited!
+[21:31:49] Addressbook has been saved!
+[21:32:08] Contact Al has been edited!
+[21:32:08] Addressbook has been saved!
+[21:34:04] Addressbook has been loaded!
+[15:23:12] Addressbook has been loaded!
+[17:42:52] Addressbook has been loaded!
+[17:44:01] Addressbook has been loaded!
+[17:46:25] Addressbook has been loaded!
+[17:48:06] Addressbook has been loaded!
+[17:49:29] Addressbook has been loaded!
